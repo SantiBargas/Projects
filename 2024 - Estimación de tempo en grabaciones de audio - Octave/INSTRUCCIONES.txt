@@ -1,0 +1,3 @@
+Ir a la carpeta Proyecto -> Codigo
+Correr el archivo BPM_detect en Octave
+Elegir una cacion y en la pestaña Ventana de comandos veremos los resultados

@@ -1,0 +1,9 @@
+El sistema fue desarrollado en Zinjal 
+
+Paso 1: Instalar zinjal en: https://zinjai.sourceforge.net/
+
+Paso 2: Descargar el complemento de wxWidgets https://zinjai.sourceforge.net/index.php?page=downextras.php&os=w32
+
+Paso 3: Dentro de zinjal ir a Herramientas -> Instalar complementos -> Seleccionar el complemento wxWidgets descargado
+
+Paso 4:
